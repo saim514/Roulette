@@ -1,5 +1,5 @@
 # Elite Roulette
-#### Video Demo: https://share.icloud.com/photos/0b6tyhZxFif_--_Mik6QF4L_Q
+#### Video Demo: https://youtu.be/poY12X2qid0
 #### Description:
 This project is a fully-featured European Roulette game built entirely with vanilla HTML, CSS, and JavaScript. European Roulette features 37 pockets numbered 0-36 rather than the American variant's 38, giving players slightly better odds. The game runs completely client-side in the browser without requiring any backend infrastructure, external libraries, or frameworks, making it lightweight and easy to deploy anywhere.
 The game simulates a complete casino roulette experience with an animated spinning wheel, comprehensive betting options, realistic payout calculations, and a player balance management system. Players can place various types of bets including straight bets on individual numbers, dozen bets covering groups of 12 numbers, column bets, and outside bets like red/black, odd/even, and high/low ranges. The wheel features smooth spinning animations with realistic deceleration, and a golden arrow pointer at the top clearly indicates which number wins after each spin.
